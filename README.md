@@ -122,7 +122,7 @@ Orders are categorized into:
 
 ## 🖼️ Dashboard Preview
 
-![Vrinda Store Sales Dashboard](images/vrinda-sales-dashboard.png)
+![Vrinda Store Sales Dashboard](vrinda-sales-dashboard.png)
 
 ---
 
